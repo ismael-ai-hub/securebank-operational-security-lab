@@ -102,4 +102,7 @@ This lab is conceptually aligned with:
 
 ## Author
 
-Designed as a professional SOC simulation project in a financial services context.
+Ismaël NGUENGANG NJAMFA   
+Graduate Student in Cybersecurity & Artificial Intelligence  
+Specialized in SOC Operations, Threat Detection Engineering, and Financial Risk Modeling.
+

@@ -100,6 +100,16 @@ This lab is conceptually aligned with:
 
 ---
 
+## Professional Objective
+
+This project was developed to simulate real-world Security Operations Center (SOC) practices within a financial services environment.
+
+The objective is to demonstrate the ability to integrate authentication monitoring, threat detection, incident reporting, and operational risk assessment into a structured and governance-aligned security workflow.
+
+It reflects a professional interest in SOC operations, financial cybersecurity, and risk-driven security engineering.
+
+---
+
 ## Author
 
 Ismaël NGUENGANG NJAMFA   

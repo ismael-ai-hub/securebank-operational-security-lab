@@ -1,0 +1,36 @@
+{
+  "framework": "SecureBank Operational Risk Matrix",
+  "methodology": "Likelihood x Impact scoring (1-5 scale)",
+  "threats": [
+    {
+      "threat_id": "T-001",
+      "name": "Authentication Brute Force",
+      "description": "Repeated failed authentication attempts targeting user accounts.",
+      "affected_assets": [
+        "Customer accounts",
+        "Online banking platform",
+        "Authentication service"
+      ],
+      "cia_impact": {
+        "confidentiality": 4,
+        "integrity": 3,
+        "availability": 2
+      },
+      "business_impact": {
+        "financial_loss": 4,
+        "reputation_damage": 4,
+        "regulatory_risk": 3
+      },
+      "likelihood": 3,
+      "impact_score": 4,
+      "overall_risk_score": 12,
+      "risk_level": "HIGH",
+      "mitigation_controls": [
+        "Multi-Factor Authentication (MFA)",
+        "Rate limiting",
+        "Account lockout policy",
+        "Continuous SOC monitoring"
+      ]
+    }
+  ]
+}
